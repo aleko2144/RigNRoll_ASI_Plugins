@@ -1,0 +1,208 @@
+ Alturas:
+    4342 39397 133     Alturas
+    4793 39397 133     Alturas_trackstop
+    6617 37571 133     Alturas_warehouse
+          
+ Atascadero:
+    -8484 -14740  36              Atascadero - "Camera_Atsc"              
+    -8325 -14444  26        Atascadero truckstop             
+    -7800 -12500  26              Atascadero - Kettleman near Atascadero      
+    -1991 -12860  12              Atascadero - Kettleman truckstop    
+
+ Bakersfield:
+     5360  -8333 18          Bakersfield truckstop
+     5848 -11722 15          Bakersfield warehouse
+     8131 -10028 26          Bakersfield - Mojave truckstop
+     5252  -4717 14          Bakersfield - Fresno truckstop
+     3600 -13198 20          Bakersfield - Lebec truckstop
+
+ Barstow:
+    23333 -18232 71    Barstow
+    24454 -18418 71    Barstow  warehouse
+
+ Bishop:
+    12901 3750 127     Bishop
+    10897 6333 127     Bishop-Bridgeport
+    9940 9740 150      Bishop_Bridgeport_trackstop
+
+ Bridgeport:
+    9467 11905 196     Bridgeport
+    7750 12816 196     Bridgeport-Minden
+    7200 13953 190     Bridgeport-Minden_trackstop
+    3470 12119 266     Bridgeport_MWVillage
+    3997 12639 273     Enemy base entrance
+
+ Burney:
+    -5214 35278 96     Burney     
+    -2870 36704 97     Burney-Alturas
+     -636 37156 81     Burney-Alturas_trackstop
+
+ Colfax:
+    -2707 23696  84   Colfax near warehouse        
+    -4595 22234  60   Colfax - Sacramento near Truck Stop
+    -1126 25373 150   Colfax - Reno Truck Stop
+
+ Eureka:
+   -35115 30108  2     Eureka_begin
+   -34446 31298  2     Eureka_center
+   -35095 29196  5     Eureka_Leggett near Eureka         
+   -34215 27787 22     Eureka_Leggett near Truck Stop
+   -24856 32171 62       Eureka_Weaverville begin 
+   -27978 33020 37     Eureka_Weaverville near Truck Stop
+
+ Fresno:
+     3088  -4747 10          Fresno exit 41 to Kettleman
+     1167  -1747 16          Fresno warehouse
+     2358  -5505 25          Fresno - Kettleman near Fresno
+     -151  -8008 10          Fresno - Kettleman near Kettleman       
+      212   -848 10          Fresno - Merced near Fresno
+    -1895   1230  8          Fresno - Merced truckstop
+
+ Greenfield:
+   -12384  -4422  2            Greenfield
+
+ Kettleman City:
+    -1434 -10666 10          Kettleman
+    -2494 -10636 12          Kettleman_Paterson near Kettleman        
+    -3595  -5700 16          Kettleman_Paterson truckstop        
+
+ Lebec:
+     8120 -16927 90          Lebec truckstop
+
+ Leggett:
+    -34360 24790 60         Leggett near warehouse           
+    -31691 22848 40         Leggett - Ukiah
+
+ Lone Pine:
+    14103 -5309 114    LonePine
+    13032 -2460 119    LonePine-Bishop
+    12600 -1109 120    LonePine-Bishop_trackstop
+
+ Los Angeles:
+    14290 -30404 72          LA Downtown warehouse  "Camera_LA_04"
+    10383 -23650 40          LA-Lebec truckstop
+    21525 -28888 40          Los Angeles - Temecula    
+    11557 -29273 72    Âúåçä íà óçêóþ ýñòàêàäó
+
+ Manteña: 
+     -8400 7292   2         Manteca
+     -9925 7050   5         Manteca  truckstop
+     -4100 7292  45         Manteca - Mi-Wuk Village
+    -11800 3818   2         Manteca - Patterson
+    -11767 5915  32         Manteca - Okland
+     -8070 9505  10         Manteca - Sacramento
+     -7171 5335  12         Manteca - Merced
+
+ Merced:
+     -2110 2688  18         Merced  warehouse
+     -3580 3018  14         Merced
+     -5725 3950  14         Merced - Manteca
+
+ Minden:
+    7302 17510 144     Minden
+
+ Mi-Wuk Village:
+    670 10900 154            Mi-Wuk Village
+
+ Mojave:
+    12884 -14608 85          Mojave
+    13761 -14029 83    Mojave warehouse
+    17171 -15515 75    Mojave - Barstow truckstop
+    13178 -11450 83    Mojave - Lone Pine                    
+    15000 -8372 100    Mojave - Lone Pine_trackstop
+
+ Oakland:
+   -20781 10408 31     Oakland
+   -19087  9195 15     Oakland TruckStop
+   -15835  7101  6     Oakland - Manteca
+   -16046 14314  8     Oakland - Sacramento  TruckStop
+
+ Oxnard:
+    6260 -24262 16           Oxnard truckstop
+    5390 -23870 16           Oxnard warehouse
+    4884 -24151  1           Oxnard Office
+    4333 -24272  4           Oxnard Office Topokinaki
+    3535 -24888  1           Oxnard Police
+
+ Orland:
+    -13287 23431  8    Orland
+    -12355 23928 17    Orland_truckstop
+    -13939 24983 17    Orland_warehouse
+    -13303 23430  8    Orland-Sacramento, near Orland
+
+ Palmdale - Lancaster:
+    15990 -22210 80         Palmdale Warehouse
+    14935 -19891 80         Palmdale TruckStop
+    13800 -16310 90         Palmdale - Mojave
+  
+ Patterson:
+     -8363 -1331 2    Patterson 
+    -10220 -1881 2          Patterson - Manteña truckstop 
+
+ Redding:
+    -14441 32234 15    Redding_truckstop
+    -13745 30848 13    Redding_warehouse
+    -16459 30781 13    Redding_Weaverville
+    -4162 29668 22     Redding_Orland, near Redding
+
+ Reno:
+    4766 27012 120    Reno near warehouse
+    4020 29141 150    Reno-Standish near Reno
+    2565 31600 125    Reno-Standish near Standish
+    5910 24230 110    Reno-Minden near Reno
+    5303 21600 170    Reno-Minden near Minden
+    2626 26711 125    Reno-Colfax near Reno
+
+ Sacramento:
+     -8358 19565  12          
+     -9155 19232  12           Sacramento TruckStop
+     -6450 18919  24           Sacramento near warehouse
+
+ Santa Barbara:
+    -3874 -21757 37          Santa Barbara
+     2121 -23717 18          Santa Barbara - Oxnard truckstop
+    -650 -23767 21           Oxnard - Santa Barbara near sea
+
+ San Clemente:
+    18364 -31357 7           San Clemente TruckStop
+    16453 -30078 20          San Clemente - Los Angeles
+    19778 -35105 78          San Clemente - San Giego
+
+ San Diego:                   
+    21123 -37017 1           San Diego
+    24444 -38535 0     San diego Temecula
+
+ Standish:
+    6130 31827 124     Standish
+    6130 31827 124     Standish - Alturas
+    3970 30656  130            Standish - Reno truckstop
+
+ San Jose:
+   -18483.8  1518.6 50.0      San_Jose
+   -14921.7  -690.3 50.5     San_Jose_Greenfield
+   -14934.2  -623.3 50.0         San_Jose_near_Sj_Gf
+
+ San Francisco:
+    -26429  7985 -2.5      SF Van Ness
+    -24343  8060 45      Bay Bridge
+    -29383  8969  2    south Golden Gate Bridge
+    -30676 11428  2    north Golden Gate Bridge
+
+ Temecula:
+    23333 -31348 1           Temecula near warehouse
+
+ Ukiah:
+    -31268 17752 19    Ukiah
+    -31905 18369 28    Ukiah_truckstop
+    -31824 18915 27    Ukiah_warehouse
+    -31111 15915 40    Ukiah - SanFransisco near river
+    -30545 13127 12    Ukiah - SanFransisco near truckstop
+
+ VictorVill:
+    22309 -21242 83    VictorVill
+    21746 -22743 92    VictorVill_warehouse
+    21969 -24505 58    VictorVill-Los Angeles_truckstop
+
+ Weaverville:
+    -23537 31212 62    Weaverville
+    -24370 31837 62    Weaverville_warehouse

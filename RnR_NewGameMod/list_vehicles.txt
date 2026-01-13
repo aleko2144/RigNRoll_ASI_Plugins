@@ -1,0 +1,276 @@
+
+0 Chevrolet_Express Chevrolet Express car
+14 GREY BLACK RED ORANGE WHITE BLUE MAGENTA GREEN GREEN BLUE BROWN YELLOW GREY RED
+
+1 Ford_F350 Ford F350 car
+6 BLACK GREY RED MAGENTA BLUE YELLOW
+
+2 Dodge_Grand_Caravan Dodge Grand_Caravan car
+12 GREY BLACK RED ORANGE WHITE BLUE MAGENTA GREEN PINK BLUE BROWN YELLOW
+
+3 Lincoln_Town_Car Lincoln Town_Car_1 car
+12 GREY BLACK RED RED ORANGE WHITE BLUE MAGENTA BROWN BROWN GREY RED
+
+4 Ford_CV Ford Crown_Victoria_1 car
+9 BLACK RED WHITE BLUE BLUE BROWN GREY RED GREY
+
+5 Ford_CV_taxi Ford Crown_Victoria_taxi car
+1 YELLOW
+
+6 Ford_CV_police Ford Crown_Victoria_police car
+1 BLACK
+
+7 Chevrolet_Silverado Chevrolet Silverado car
+15 RED GREY YELLOW BROWN BLUE PINK GREEN MAGENTA BLUE WHITE ORANGE RED GREY YELLOW BROWN
+
+8 Chevrolet_Avalanche Chevrolet Avalanche car
+18 RED GREY YELLOW BROWN BLUE PINK BROWN GREEN GREEN GREEN MAGENTA BLUE WHITE ORANGE RED RED BLACK GREY
+
+9 Chrysler_Voyager Chrysler Voyager car
+10 GREY BLACK PINK RED MAGENTA BLUE BLUE WHITE BROWN BROWN
+
+10 VW_NewBeatle Volkswagen NewBeatle car
+15 RED BLACK ORANGE WHITE BLUE MAGENTA MAGENTA GREEN PINK BLUE BROWN YELLOW GREY RED MAGENTA
+
+11 Toyota_Camry Toyota Camry car
+12 GREY BLACK RED ORANGE WHITE BLUE GREY PINK MAGENTA BROWN YELLOW GREY
+
+12 Dodge_Intrepid Dodge Intrepid_1 car
+16 GREY BLACK RED RED ORANGE WHITE BLUE MAGENTA GREEN PINK BLUE BROWN BROWN YELLOW GREY RED
+
+13 Chevrolet_Cavalier Chevrolet Cavalier car
+8 GREY BLACK RED WHITE ORANGE BLUE GREEN YELLOW
+
+14 FREIGHTLINER_FL60 Freightliner FL_60 lorry
+7 GREY RED BLUE ORANGE BLACK GREEN YELLOW
+
+15 FREIGHTLINER_FL60_2 Freightliner FL_60 lorry
+6 GREY RED BLUE ORANGE GREEN BLACK
+
+16 Freightliner_FL_65_Schoolbus Freightliner Schoolbus lorry
+1 YELLOW
+
+17 GMC_TOPKICK4500 GMC Topkick4500 lorry
+5 YELLOW BLACK WHITE GREY RED
+
+18 GMC_TOPKICK4500_JOHN GMC Topkick4500_John_Car lorry
+1 ORANGE
+
+19 GMC_TOPKICK4500_JOHN_TRAMPLIN GMC Topkick4500_John_Car_tramplin lorry
+1 ORANGE
+
+20 GMC_TOPKICK8500_CISTERN GMC Topkick8500_Cistern lorry
+8 RED BLUE WHITE BROWN ORANGE YELLOW GREY GREY
+
+21 GMC_TOPKICK8500_FLAT GMC Topkick8500_Flat lorry
+8 RED BLUE WHITE BROWN ORANGE YELLOW GREY GREY
+
+22 GMC_TOPKICK8500 GMC Topkick8500 lorry
+8 RED BLUE WHITE BROWN ORANGE YELLOW GREY GREY
+
+23 GMC_TOPKICK8500_DUMP GMC Topkick8500_Dump lorry
+8 RED BLUE WHITE BROWN ORANGE YELLOW GREY GREY
+
+24 WORK_TRUCK Freightliner Chassis lorry
+6 WHITE BLACK GREY RED BLUE MAGENTA
+
+25 PETERBILT_378_DUMP Peterbilt 378_dump lorry
+6 RED BLUE GREEN YELLOW BLACK WHITE
+
+26 PETERBILT_378_CONTAINER Peterbilt 378_container lorry
+6 RED BLUE GREEN YELLOW BLACK WHITE
+
+27 PETERBILT_378_DRYVAN Peterbilt 378_dryvan lorry
+6 RED BLUE GREEN YELLOW BLACK WHITE
+
+28 PETERBILT_378_DRYVAN_2 Peterbilt 378_dryvan_2 lorry
+6 RED BLUE GREEN YELLOW BLACK WHITE
+
+29 PETERBILT_378 Peterbilt 378 tractor
+12 RED RED LIGHT_BLUE LIGHT_BLUE YELLOW YELLOW DARK_GREEN DARK_GREEN MAGENTA MAGENTA LIGHT_BLUE LIGHT_BLUE
+
+30 PETERBILT_379 Peterbilt 379 tractor
+12 RED RED GREEN GREEN WHITE WHITE LIGHT_BLUE LIGHT_BLUE MAGENTA MAGENTA YELLOW YELLOW
+
+31 PETERBILT_387 Peterbilt 387 tractor
+12 MAGENTA MAGENTA DARK_BLUE DARK_BLUE CREAM CREAM RED RED BLUE BLUE YELLOW YELLOW
+
+32 FREIGHTLINER_CLASSIC_XL Freightliner FLD120_Classic_XL tractor
+12 WHITE WHITE RED RED BLUE BLUE PINK PINK BROWN BROWN BLACK BLACK
+
+33 FREIGHTLINER_CORONADO Freightliner Coronado tractor
+12 RED RED DARK_RED DARK_RED WHITE WHITE BLUE BLUE BLACK BLACK MAGENTA MAGENTA
+
+34 FREIGHTLINER_ARGOSY Freightliner Argosy tractor
+14 ORANGE ORANGE BLUE BLUE PINK PINK BLACK BLACK GREEN GREEN PINK PINK WHITE BLACK
+
+35 FREIGHTLINER_CENTURY Freightliner Century tractor
+12 BLACK BLACK CREAM CREAM RED RED BLUE BLUE DARK_GREEN DARK_GREEN MAGENTA MAGENTA
+
+36 KENWORTH_W900L Kenworth W900L tractor
+12 RED RED ORANGE ORANGE BLACK BLACK WHITE WHITE BLUE BLUE MAGENTA MAGENTA
+
+37 KENWORTH_T2000 Kenworth T2000 tractor
+12 RED RED MAGENTA MAGENTA WHITE WHITE GREEN GREEN YELLOW YELLOW BLACK BLACK
+
+38 KENWORTH_T600W Kenworth T600W tractor
+12 MAGENTA MAGENTA RED RED BLUE BLUE GREEN GREEN BROWN BROWN WHITE WHITE
+
+39 KENWORTH_T800 Kenworth T800 tractor
+12 RED RED YELLOW YELLOW GREEN GREEN LIGHT_BLUE LIGHT_BLUE BLACK BLACK CREAM CREAM
+
+40 STERLING_9500 Sterling 9500 tractor
+12 BLUE BLUE RED RED GREEN GREEN BROWN BROWN YELLOW YELLOW MAGENTA MAGENTA
+
+41 WESTERN_STAR4900_EX WesternStar 4900EX tractor
+12 BLUE BLUE RED RED CREAM CREAM BLACK BLACK PINK PINK YELLOW YELLOW
+
+42 GEPARD Concept Gepard tractor
+1 BLACK
+
+43 WESTERN_STAR4900_SPORT WesternStar 4900_Sport tractor
+12 BLUE BLUE RED RED CREAM CREAM BLACK BLACK PINK PINK YELLOW YELLOW
+
+44 KENWORTH_W900L_SPORT Kenworth W900L_Sport tractor
+12 RED RED ORANGE ORANGE BLACK BLACK WHITE WHITE BLUE BLUE MAGENTA MAGENTA
+
+45 FREIGHTLINER_CENTURY_SPORT Freightliner Century_Sport tractor
+12 BLACK BLACK CREAM CREAM RED RED BLUE BLUE DARK_GREEN DARK_GREEN MAGENTA MAGENTA
+
+46 refrigerator ZIL chaika semitrailer
+0
+
+47 flat_bed_cargo1 ZIL chaika semitrailer
+0
+
+48 flat_bed_cargo2 ZIL chaika semitrailer
+0
+
+49 flat_bed_cargo3 ZIL chaika semitrailer
+0
+
+50 flat_bed_sheets ZIL chaika semitrailer
+0
+
+51 flat_bed_wire ZIL chaika semitrailer
+0
+
+52 flat_bed_hay ZIL chaika semitrailer
+0
+
+53 Oil_tank ZIL chaika semitrailer
+0
+
+54 Car_carier ZIL chaika semitrailer
+0
+
+55 Low_boy ZIL chaika semitrailer
+0
+
+56 Low_boy_Gas_turbine ZIL chaika semitrailer
+0
+
+57 Low_boy_Boiler ZIL chaika semitrailer
+0
+
+58 Low_boy_Traktor ZIL chaika semitrailer
+0
+
+59 Low_boy_Bulldozer ZIL chaika semitrailer
+0
+
+60 Low_boy_Katok ZIL chaika semitrailer
+0
+
+61 Low_boy_Combain ZIL chaika semitrailer
+0
+
+62 Gas_tank_01 ZIL chaika semitrailer
+0
+
+63 DryVan_49d_01 ZIL chaika semitrailer
+0
+
+64 Livestock_cow ZIL chaika semitrailer
+0
+
+65 Livestock_pig ZIL chaika semitrailer
+0
+
+66 Livestock_sheep ZIL chaika semitrailer
+0
+
+67 Livestock_calves ZIL chaika semitrailer
+0
+
+68 Livestock_hogs ZIL chaika semitrailer
+0
+
+69 Livestock_lambs ZIL chaika semitrailer
+0
+
+70 Dump ZIL chaika semitrailer
+0
+
+71 Dump2 ZIL chaika semitrailer
+0
+
+72 Hopper ZIL chaika semitrailer
+0
+
+73 Curtain_side ZIL chaika semitrailer
+0
+
+74 Log_Timber ZIL chaika semitrailer
+0
+
+75 Log_Logs ZIL chaika semitrailer
+0
+
+76 Log_Pipes ZIL chaika semitrailer
+0
+
+77 Beverage ZIL chaika semitrailer
+0
+
+78 Dry_Bulk ZIL chaika semitrailer
+0
+
+79 Dry_Bulk_2 ZIL chaika semitrailer
+0
+
+80 DryVan_48d_01 ZIL chaika semitrailer
+0
+
+81 Gepard_Trailer ZIL chaika semitrailer
+0
+
+82 DryVan_48d_Ochakovo ZIL chaika semitrailer
+0
+
+83 DryVan_48d_Stimorol ZIL chaika semitrailer
+0
+
+84 Horse_Trailer ZIL chaika semitrailer
+0
+
+85 DryVan_Topo ZIL chaika semitrailer
+0
+
+86 BIG_RACE_trailer ZIL chaika semitrailer
+0
+
+87 BIG_RACE_l1_trailer ZIL chaika semitrailer
+0
+
+88 BIG_RACE_l2_trailer ZIL chaika semitrailer
+0
+
+89 BIG_RACE_lc_trailer ZIL chaika semitrailer
+0
+
+90 BIG_RACE_lm_trailer ZIL chaika semitrailer
+0
+
+91 BIG_RACE_lp_trailer ZIL chaika semitrailer
+0
