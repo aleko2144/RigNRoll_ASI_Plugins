@@ -82,9 +82,9 @@
     14290 -30404 72          LA Downtown warehouse  "Camera_LA_04"
     10383 -23650 40          LA-Lebec truckstop
     21525 -28888 40          Los Angeles - Temecula    
-    11557 -29273 72    Âúåçä íà óçêóş ıñòàêàäó
+    11557 -29273 72    Ğ’ÑŠĞµĞ·Ğ´ Ğ½Ğ° ÑƒĞ·ĞºÑƒÑ ÑÑÑ‚Ğ°ĞºĞ°Ğ´Ñƒ
 
- Manteña: 
+ ManteÑa: 
      -8400 7292   2         Manteca
      -9925 7050   5         Manteca  truckstop
      -4100 7292  45         Manteca - Mi-Wuk Village
@@ -137,7 +137,7 @@
   
  Patterson:
      -8363 -1331 2    Patterson 
-    -10220 -1881 2          Patterson - Manteña truckstop 
+    -10220 -1881 2          Patterson - ManteÑa truckstop 
 
  Redding:
     -14441 32234 15    Redding_truckstop
